@@ -44,7 +44,7 @@ echo ""
 echo "=== Downloading dataset from Google Drive ==="
 if [ ! -d "data" ]; then
     mkdir -p data
-    gdown "https://drive.google.com/uc?id=1e2MBp9yYcF2tbuL9wtd5C899KLyLZRZm" -O data/stablediffusion.zip
+    gdown "https://drive.usercontent.google.com/download?id=1fpu678kLDu-9cUMceNz2SajyPYBCQ_Sy" -O data/stablediffusion.zip
     cd data
     python -c "import zipfile; zipfile.ZipFile('stablediffusion.zip').extractall('.')"
     cd ..
