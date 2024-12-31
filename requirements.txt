@@ -1,0 +1,14 @@
+torch>=2.0
+torchvision
+diffusers>=0.25.0
+transformers>=4.36.0
+accelerate
+peft>=0.7.0
+datasets
+opencv-python-headless
+numpy
+matplotlib
+tqdm
+pytorch-fid
+gdown
+Pillow

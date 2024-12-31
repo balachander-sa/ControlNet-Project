@@ -1,0 +1,12 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(gh auth *)",
+      "Bash(gh repo *)",
+      "Bash(git init *)",
+      "Bash(GIT_AUTHOR_DATE=\"Mon Dec 30 20:43:00 2024 -0500\" GIT_COMMITTER_DATE=\"Mon Dec 30 20:43:00 2024 -0500\" git commit -m \"Initial commit\")",
+      "Bash(git branch *)",
+      "Bash(git remote *)"
+    ]
+  }
+}
