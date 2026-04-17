@@ -1,4 +1,4 @@
-# Depth-Conditioned Scene Augmentation for Autonomous Driving
+# Depth-Conditioned Scene Augmentation for Autonomous Driving - Balachander Sathianarayanan (BS3507), part of Prof Shron Di's research. 
 
 A pipeline for generating realistic augmented driving scenes using monocular depth estimation and diffusion models. Built as an ablation study comparing Depth Anything V2 encoder variants (ViT-S, ViT-B, ViT-L) as conditioning inputs for ControlNet-guided image generation with LoRA fine-tuning.
 
